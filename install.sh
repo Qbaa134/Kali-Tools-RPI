@@ -119,7 +119,7 @@ sudo apt install -y python3 python3-pip
 
 # Instalacja pakietów Pythona (jeśli potrzebujesz)
 echo "Instalowanie pakietów Pythona..."
-apt install python3-requests scapy beautifulsoup4 selenium
-
+apt install python3-requests  
+apt install python3-scapy
 # Zakończenie instalacji
 echo "Instalacja zakończona. Wszystkie narzędzia zostały zainstalowane!"
