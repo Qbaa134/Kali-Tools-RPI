@@ -264,4 +264,4 @@ Projekt objęty jest licencją **MIT**. Więcej informacji znajdziesz w pliku [L
 
 ## Podziękowania 🙏
 
-Dziękujemy wszystkim osobom, które przyczyniły się do tego projektu, w tym autorom narzędzi, które zostały uwzględnione w tym zestawie.👏
+Dziękuję wszystkim osobom, które przyczyniły się do tego projektu, w tym autorom narzędzi, które zostały uwzględnione w tym zestawie.👏
