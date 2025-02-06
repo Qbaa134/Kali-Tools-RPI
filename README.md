@@ -59,7 +59,7 @@ Następnie sklonuj repozytorium:
 
 ```bash
 git clone https://github.com/qbaa134/Kali-Tools-RPI.git
-cd rpi-pentest-tools
+cd Kali-Tools-RPI
 ```
 
 ### 2. Przyznanie uprawnień do skryptu
