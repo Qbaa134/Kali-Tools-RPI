@@ -58,7 +58,7 @@ sudo apt install git
 Następnie sklonuj repozytorium:
 
 ```bash
-git clone https://github.com/qbaa134/rpi-pentest-tools.git
+git clone https://github.com/qbaa134/Kali-Tools-RPI.git
 cd rpi-pentest-tools
 ```
 
